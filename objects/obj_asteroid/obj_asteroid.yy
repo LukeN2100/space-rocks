@@ -1,8 +1,8 @@
 {
-    "id": "041a43f7-fcb3-4e34-8c76-ffcfc40d3bae",
+    "id": "c0b87d62-d321-4794-9fc3-0cbcd076a0c2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ship",
+    "name": "obj_asteroid",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d562ca59-11b8-4048-a194-b93f4e953fcf",
+    "spriteId": "ff34d170-98f7-4ce6-959b-3ffa4caddbb8",
     "visible": true
 }
